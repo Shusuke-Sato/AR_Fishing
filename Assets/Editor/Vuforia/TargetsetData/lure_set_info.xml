@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-06-22T07:18:33Z" name="cra2" targetId="966dbf7dcd2d47ef80f077f6c9bf669c" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-06-22T07:57:57Z" name="cra1" targetId="6ddbf0e27955424faee8645726261b79" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-06-15T08:39:25Z" name="vive" targetId="818c7b179bdd469bbd41008ae1437f66" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-06-15T08:36:43Z" name="minnow" targetId="a3962ad6e97047f4aeeb941a1a250216" version="2.0" />
+  </TargetSet>
+</QCARInfo>
